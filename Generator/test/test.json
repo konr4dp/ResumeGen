@@ -1,0 +1,20 @@
+{
+  "personal": {
+    "name": "TestName",
+    "surname": "TestSurname",
+    "birth_date": "22/09/1988",
+    "contacts": {
+      "phone_numbers": [
+        "+48 1111 11111 1111"
+      ],
+      "emails": [
+        "test@gmail.com"
+      ]
+    },
+    "profiles": {
+      "Linkedin": "linkedin",
+      "Gitlab": "gitlab",
+      "Github": "github"
+    }
+  }
+}
